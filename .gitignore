@@ -1,0 +1,7 @@
+/code/data
+/code/models
+/code/validation_images
+*.nii.gz
+evaluate.ipynb
+/models_to_evaluate
+/code/models_to_evaluate
